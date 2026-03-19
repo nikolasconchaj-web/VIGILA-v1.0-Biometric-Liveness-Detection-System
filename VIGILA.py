@@ -17,7 +17,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.title("🛡️ VIGILA v2.3: Escudo Biométrico - NCubing Edition")
+st.title("🛡️ VIGILA v2.3: Escudo Biométrico")
 st.write("---")
 
 # Cargamos los detectores de OpenCV (Asegúrate de que no haya errores de ruta)

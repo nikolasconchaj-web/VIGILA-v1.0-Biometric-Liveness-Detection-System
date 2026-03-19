@@ -5,7 +5,7 @@ import av
 import threading
 
 st.set_page_config(page_title="VIGILA v2.5 - Professional Biometrics", page_icon="🛡️")
-st.title("🛡️ VIGILA v2.5: Sistema de Seguridad NC-Space")
+st.title("🛡️ VIGILA v2.5")
 
 RTC_CONFIGURATION = RTCConfiguration(
     {"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}

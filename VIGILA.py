@@ -82,5 +82,3 @@ webrtc_streamer(
 if st.session_state.verified:
     st.success("✅ ¡HUMANO VALIDADO!")
     st.balloons()
-
-st.caption("VIGILA v2.4 - NCubing | Calama, Chile")

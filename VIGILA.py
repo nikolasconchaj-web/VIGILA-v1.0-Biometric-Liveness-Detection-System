@@ -5,7 +5,7 @@ import numpy as np
 import time
 
 # Configuración de Interfaz Profesional
-st.set_page_config(page_title="VIGILA v2.3 - Friendly Edition", page_icon="🛡️", layout="wide")
+st.set_page_config(page_title="VIGILA v2.3", page_icon="🛡️", layout="wide")
 
 # Estilo visual de "Hacker" / NC-Space
 st.markdown("""

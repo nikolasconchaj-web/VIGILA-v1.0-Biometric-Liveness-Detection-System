@@ -1,0 +1,17 @@
+# Ignorar configuración de PyCharm
+.idea/
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar entornos virtuales (donde se instalan las librerías)
+venv/
+.venv/
+env/
+
+# Archivos sueltos del sistema
+.DS_Store
+Thumbs.db
